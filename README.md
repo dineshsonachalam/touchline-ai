@@ -2,11 +2,7 @@
 
 **What if AI could spot the passing opportunities players missed?**
 
-### 🎬 Watch the demo
-
-[![Watch Touchline AI demo](demo-preview.jpg)](pitch.mov)
-
-**[▶ Play the 28-second demo](pitch.mov)**
+https://github.com/user-attachments/assets/2d613400-e277-4166-89a0-f5e144ccdf1a
 
 ## What is Touchline AI?
 
